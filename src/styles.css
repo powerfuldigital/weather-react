@@ -1,6 +1,8 @@
 .StrictMode {
     border: black solid 4px;
   }
+
+  h1, p{text-align: center;}
   
   .App {
     font-family: sans-serif;

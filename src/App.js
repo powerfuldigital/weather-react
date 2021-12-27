@@ -9,6 +9,8 @@ function App() {
       <h1>Weather Search</h1>
         <Weather />
     <Loading />
+    <p>
+    <a href="https://github.com/powerfuldigital/weather-react">Open-source code</a>by Powerful Digital </p>
     </div>
   );
 }
