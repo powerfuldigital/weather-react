@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './styles.css';
 import Weather from "./Weather";
 import Loading from "./Loader";
@@ -10,7 +9,7 @@ function App() {
         <Weather />
     <Loading />
     <p>
-    <a href="https://github.com/powerfuldigital/weather-react">Open-source code</a>by Powerful Digital </p>
+    <a href="https://github.com/powerfuldigital/weather-react">Open-source code</a> by Powerful Digital </p>
     </div>
   );
 }
